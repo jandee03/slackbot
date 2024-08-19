@@ -6,3 +6,4 @@ pyyaml
 selenium
 pandas
 typer
+pytz

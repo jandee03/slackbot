@@ -5,6 +5,15 @@ profile: ["Profile 3", "Profile 1"]
 nxt_btn_css: "#pagination > div > div > button:"
 
 
-csv_path: selenium/outputs/
-workspace_url: https://app.slack.com/client/T06HKSK2L
-group_name: MSPTech
+csv_path: outputs/
+workspace_url: https://app.slack.com/client/T09C8HPAQ
+csv_name: main
+csv_name2: part2
+group_name: MindtheProduct
+
+
+# MindtheProduct - https://app.slack.com/client/T09C8HPAQ
+# DCTech - https://app.slack.com/client/T04CSTKMT
+# phillystartup - https://app.slack.com/client/T03C34VSY
+# freelancelead - https://app.slack.com/client/T6PDY8A3Z
+# flutter - https://app.slack.com/client/TGT6YF2J1
